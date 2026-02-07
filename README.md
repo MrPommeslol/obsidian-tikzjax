@@ -4,6 +4,14 @@
 
 A plugin for Obsidian that lets you render LaTeX and TikZ diagrams in your notes.
 
+## Patch Metadata
+- Author: Roberto Bissanti
+- Date: 7 febbraio 2026
+- Email: roberto.bissanti@gmail.com
+- GitHub username: robertobissanti
+- GitHub: https://github.com/robertobissanti
+- Patch scope: export/print/PDF fixes for TikZ SVG rendering and placement
+
 You can render graphs, figures, circuits, chemical diagrams, commutative diagrams, and more.
 
 The following packages are available in `\usepackage{}`:
