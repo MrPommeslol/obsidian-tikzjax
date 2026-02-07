@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-tikzjax",
-	"name": "TikZJax",
+	"id": "obsidian-tikzjax-pdf",
+	"name": "TikZJax.PDF",
 	"version": "0.5.3",
 	"minAppVersion": "0.12.0",
 	"description": "Render LaTeX and TikZ diagrams in your notes (export/svg patch by Roberto Bissanti, 2026-02-07)",
